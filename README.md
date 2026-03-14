@@ -12,7 +12,7 @@ This project was built by Alayna Taylor, a front-end enthusiast exploring React 
 
 ## Installation
 
-1. git clone https://github.com/ROM-01/meal-explorer.git
+1. git clone https://github.com/alayna-devs/meal-explorer
 2. cd meal-explorer
 3. npm install
 4. npm run dev 
